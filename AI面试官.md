@@ -16,3 +16,5 @@
 
 ![1726111684823](https://github.com/user-attachments/assets/87865953-a162-43b4-966b-ebb16ee6f983)
 
+
+## 新建2个bot
