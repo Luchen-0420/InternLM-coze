@@ -1,4 +1,4 @@
-# 1. 教程简介
+![1726642271289](https://github.com/user-attachments/assets/db0a57e6-d122-4bb8-b9ea-8b098b07a0f9)# 1. 教程简介
 
 ## 1.1 涵盖功能
 
@@ -53,6 +53,22 @@
 
 # 3. 搭建整理入库工作流
 
+![image](https://github.com/user-attachments/assets/25bd9f09-b49c-4423-9bac-9c0217f332fe)
+
+
+## 3.1 新建article_arrange工作流
+
+![image](https://github.com/user-attachments/assets/a516bafd-d3c9-4c2b-be63-6bf54a5f3fff)
+
+![1726642271289](https://github.com/user-attachments/assets/33307810-4794-4c2d-a023-8e43d3ac23ea)
+
+## 3.2 对输入的url进行处理
+
+有些平台的分享链接会包含其他符号，例如小红书、B站等。这里第一步要先对输入的url进行```https://```开头链接提取。
+
+```
+86 【为了这1️⃣5️⃣个机位，我特意飞了趟大连‼️ - 猪甜菜的旅行手记 | 小红书 - 你的生活指南】 😆 SmN73Z1FIahYCR8 😆 https://www.xiaohongshu.com/discovery/item/66e306730000000027004c9f?source=webshare&xsec_token=ABvDkzrNj9V0qrp5F0givNOHph1ZJyNLzGweDxy2AQvt4=&xsec_source=pc_share
+```
 
 
 # 2.3 搭建内容推荐工作流
