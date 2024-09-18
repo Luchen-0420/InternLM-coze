@@ -1,4 +1,4 @@
-![1726642271289](https://github.com/user-attachments/assets/db0a57e6-d122-4bb8-b9ea-8b098b07a0f9)# 1. 教程简介
+# 1. 教程简介
 
 ## 1.1 涵盖功能
 
@@ -27,8 +27,6 @@
 
 ```摘要```：AI自动生成摘要
 
-```作者```：作者ID
-
 ```来源```：可自定义，如B站、小红书等
 
 ```分类```：可自定义，如AI、软件、硬件、产品设计等
@@ -51,6 +49,13 @@
 ![1726641681662](https://github.com/user-attachments/assets/7346093e-386d-42dc-9481-ee39386ddce3)
 
 
+## 2.3 创建浦语API Token
+
+登录
+
+![1726645539860](https://github.com/user-attachments/assets/3abfa68c-1864-4b6d-856f-e9c0237f5e22)
+
+
 # 3. 搭建整理入库工作流
 
 ![image](https://github.com/user-attachments/assets/25bd9f09-b49c-4423-9bac-9c0217f332fe)
@@ -69,6 +74,10 @@
 ```
 86 【为了这1️⃣5️⃣个机位，我特意飞了趟大连‼️ - 猪甜菜的旅行手记 | 小红书 - 你的生活指南】 😆 SmN73Z1FIahYCR8 😆 https://www.xiaohongshu.com/discovery/item/66e306730000000027004c9f?source=webshare&xsec_token=ABvDkzrNj9V0qrp5F0givNOHph1ZJyNLzGweDxy2AQvt4=&xsec_source=pc_share
 ```
+
+点击添加"插件"，选择```InternLM_api```插件
+
+![1726645170089](https://github.com/user-attachments/assets/618625f7-720c-45a7-80d7-0dc0a96b2b60)
 
 
 # 2.3 搭建内容推荐工作流
