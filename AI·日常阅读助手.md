@@ -48,18 +48,19 @@
 
 ![1726641681662](https://github.com/user-attachments/assets/7346093e-386d-42dc-9481-ee39386ddce3)
 
-
 ## 2.3 创建浦语API Token
 
-登录
+登录[书生浦语](https://internlm.intern-ai.org.cn/)，点击```体验浦语```，点击```浦语API```，点击```API Tokens```创建并复制(注意这个Token需要自行备份)
+
+![1726645996215](https://github.com/user-attachments/assets/c16f28ce-9037-4923-b3ee-4eb338a2ab39)
 
 ![1726645539860](https://github.com/user-attachments/assets/3abfa68c-1864-4b6d-856f-e9c0237f5e22)
 
+![1726646031935](https://github.com/user-attachments/assets/372da080-91f4-429b-b7e4-91d1b14ac28e)
 
 # 3. 搭建整理入库工作流
 
 ![image](https://github.com/user-attachments/assets/25bd9f09-b49c-4423-9bac-9c0217f332fe)
-
 
 ## 3.1 新建article_arrange工作流
 
